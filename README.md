@@ -23,15 +23,18 @@
 
 ## About Me
 
-I am a Computer Science & Engineering graduate with hands-on experience in full-stack web development, Python-based applications, dashboards, and machine learning projects. I enjoy building practical systems that solve real-world problems, including travel booking platforms, energy monitoring dashboards, healthcare management systems, and classification models.
+I am a Computer Science & Engineering graduate with hands-on experience in full-stack web development, Python-based applications, dashboards, and machine learning projects.
 
-I am currently improving my skills in backend development, database design, clean frontend development, project deployment, and applied machine learning.
+I enjoy building practical systems that solve real-world problems, including travel booking platforms, energy monitoring dashboards, healthcare management systems, education websites, and classification models.
+
+Currently, I am improving my skills in backend development, database design, clean frontend development, project deployment, and applied machine learning.
 
 ---
 
 ## Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -41,6 +44,7 @@ I am currently improving my skills in backend development, database design, clea
 </p>
 
 ### Frameworks, Tools & Database
+
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -51,6 +55,7 @@ I am currently improving my skills in backend development, database design, clea
 </p>
 
 ### Areas of Interest
+
 <p>
   <img src="https://img.shields.io/badge/Full--Stack%20Web%20Development-0F766E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Dashboard%20Development-2563EB?style=for-the-badge" />
@@ -62,106 +67,14 @@ I am currently improving my skills in backend development, database design, clea
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### TravelEase – Travel Booking Web App
-
-A PHP/MySQL travel booking platform with trip browsing, booking workflow, user authentication, and role-based dashboards.
-
-**Tech:** PHP, MySQL, HTML, CSS, JavaScript
-
-<a href="https://github.com/abarman079/travelease-webApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abarman079&repo=travelease-webApp&theme=github_dark&hide_border=true" />
-</a>
-
-</td>
-<td width="50%">
-
-### PulseFlow Emergency Hospital Management
-
-A PHP-based emergency hospital management system with patient, nurse, doctor, admin, authentication, and dashboard modules.
-
-**Tech:** PHP, MySQL, JavaScript, CSS
-
-<a href="https://github.com/abarman079/PulseFlow-emergency-hospital-management-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abarman079&repo=PulseFlow-emergency-hospital-management-&theme=github_dark&hide_border=true" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Building Energy Monitoring Dashboard
-
-A Flask-based dashboard project for displaying room status and building energy-related information through a web interface.
-
-**Tech:** Python, Flask, HTML, CSS, JavaScript
-
-<a href="https://github.com/abarman079/EWU_FUB_EnergyMonitor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abarman079&repo=EWU_FUB_EnergyMonitor&theme=github_dark&hide_border=true" />
-</a>
-
-</td>
-<td width="50%">
-
-### Rice Varieties Classification
-
-A machine learning project using Python and Jupyter Notebook to classify 38 rice varieties in Bangladesh.
-
-**Tech:** Python, Jupyter Notebook, Machine Learning
-
-<a href="https://github.com/abarman079/RiceVarietiesBangladesh_Classification_CSE475_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abarman079&repo=RiceVarietiesBangladesh_Classification_CSE475_Project&theme=github_dark&hide_border=true" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Education Consultancy Website
-
-A React-based frontend project focused on responsive pages, reusable components, and clean website structure.
-
-**Tech:** React, JavaScript, HTML, CSS
-
-<a href="https://github.com/abarman079/education_consultancy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abarman079&repo=education_consultancy&theme=github_dark&hide_border=true" />
-</a>
-
-</td>
-<td width="50%">
-
-### Wall Crack Detection Research
-
-A computer vision research project focused on wall crack detection using segmentation models, diagnostics, and threshold tuning.
-
-**Tech:** Python, Deep Learning, Computer Vision
-
-<a href="https://github.com/abarman079/wallCrackWith2datasets">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abarman079&repo=wallCrackWith2datasets&theme=github_dark&hide_border=true" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abarman079&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abarman079&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+| Project | Description | Technologies |
+|---|---|---|
+| [TravelEase – Travel Booking Web App](https://github.com/abarman079/travelease-webApp) | Travel booking platform with trip browsing, booking workflow, authentication, and role-based dashboards. | PHP, MySQL, HTML, CSS, JavaScript |
+| [PulseFlow Emergency Hospital Management](https://github.com/abarman079/PulseFlow-emergency-hospital-management-) | Emergency hospital management system with patient, nurse, doctor, admin, authentication, and dashboard modules. | PHP, MySQL, JavaScript, CSS |
+| [Building Energy Monitoring Dashboard](https://github.com/abarman079/EWU_FUB_EnergyMonitor) | Flask-based dashboard for room status and building energy-related information. | Python, Flask, HTML, CSS, JavaScript |
+| [Rice Varieties Classification](https://github.com/abarman079/RiceVarietiesBangladesh_Classification_CSE475_Project) | Machine learning project using Python and Jupyter Notebook to classify 38 rice varieties in Bangladesh. | Python, Jupyter Notebook, ML |
+| [Education Consultancy Website](https://github.com/abarman079/education_consultancy) | React-based frontend project focused on responsive pages, reusable components, and clean website structure. | React, JavaScript, HTML, CSS |
+| [Wall Crack Detection Research](https://github.com/abarman079/wallCrackWith2datasets) | Computer vision research project for wall crack detection using segmentation models and evaluation experiments. | Python, Deep Learning, Computer Vision |
 
 ---
 
@@ -172,6 +85,12 @@ A computer vision research project focused on wall crack detection using segment
 - Machine learning workflow and model evaluation  
 - GitHub project documentation and deployment  
 - Real-world project structure and client-ready development  
+
+---
+
+## Career Focus
+
+I am interested in entry-level opportunities in software development, full-stack web development, frontend/backend development, and Python-based application development.
 
 ---
 
