@@ -94,7 +94,7 @@ Classification projects, Jupyter Notebook workflow, data analysis, model trainin
 
 ---
 
-## Featured Projects
+## Selected Projects
 
 <table>
 <tr>
