@@ -46,6 +46,6 @@ A computer vision research project focused on wall crack detection and model exp
 
 ## Contact
 
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: [Add your LinkedIn profile link here](https://www.linkedin.com/in/md-akibul-hasan-arman-81857b339/)
 - Email: abarmanoffice@gmail.com
 - GitHub: github.com/abarman079
