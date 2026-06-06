@@ -2,7 +2,7 @@
 
 # Hi, I'm Md. Akibul Hasan Arman
 
-### CSE Graduate | Aspiring Full-Stack Developer  
+### CSE Graduate | Full-Stack Developer  
 #### Python • Flask • PHP • MySQL • React • Machine Learning
 
 <p>
