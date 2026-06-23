@@ -298,29 +298,25 @@ I am currently preparing for opportunities in **software development, full-stack
 
 ## GitHub Analytics
 
+## GitHub Analytics
+
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=abarman079&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abarman079&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=abarman079&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abarman079&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/>
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=abarman079&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=abarman079&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=abarman079&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
-
-<br/>
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abarman079&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abarman079&theme=tokyo-night&hide_border=true&area=true&custom_title=Md.%20Akibul%20Hasan%20Arman's%20Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
----
 
 ## Currently Improving
 
