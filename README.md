@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=240&section=header&text=Md.%20Akibul%20Hasan%20Arman&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CSE%20Graduate%20%7C%20Full-Stack%20Developer%20%7C%20Python%20%7C%20PHP%20%7C%20React%20%7C%20Machine%20Learning&descAlignY=57&descSize=15" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Full-Stack+Web+Developer;PHP+%7C+MySQL+%7C+React+%7C+Next.js;Python+%7C+Flask+%7C+Machine+Learning;Building+real-world+projects+for+job-ready+experience;Open+to+Software+Developer+and+Junior+Tech+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Full-Stack+Web+Developer;PHP+%7C+MySQL+%7C+React+%7C+Next.js;Python+%7C+Flask+%7C+Machine+Learning;Building+real-world+projects;Open+to+Software+Developer+and+Junior+Tech+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
