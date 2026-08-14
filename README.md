@@ -93,7 +93,7 @@ Dimensional Modeling
 
 <div align="center">
 
-### Animated Core Stack
+### Core Stack
 
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="62" height="62" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="62" height="62" />
