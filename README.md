@@ -1,87 +1,104 @@
-
 <!-- =========================================================
-     MD. AKIBUL HASAN ARMAN — GITHUB PROFILE README
+     MD. AKIBUL HASAN ARMAN
+     PREMIUM GITHUB PROFILE README — V2
      Theme: Midnight Aurora
      ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B17,35:111827,70:8B5CF6,100:22D3EE&height=260&section=header&text=Md.%20Akibul%20Hasan%20Arman&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=FULL-STACK%20ENGINEERING%20%E2%80%A2%20BACKEND%20SYSTEMS%20%E2%80%A2%20APPLIED%20AI&descAlignY=57&descSize=16" />
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:070B17,30:111827,58:6D28D9,80:2563EB,100:22D3EE&height=280&section=header&text=Md.%20Akibul%20Hasan%20Arman&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20BACKEND%20%E2%80%A2%20APPLIED%20AI&descAlignY=56&descSize=15"
+/>
 
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Full-Stack+%26+Backend+Engineer;Building+Secure%2C+Production-Minded+Systems;Applied+AI+%E2%80%A2+Computer+Vision+%E2%80%A2+Data;Turning+Ideas+Into+Working+Software"
-    alt="Typing SVG"
-  />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=850&color=22D3EE&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Building+Secure+%26+Production-Minded+Systems;Full-Stack+Engineering+%E2%80%A2+Backend+Architecture;Applied+AI+%E2%80%A2+Computer+Vision+%E2%80%A2+Data;From+Idea+%E2%86%92+Architecture+%E2%86%92+Working+Product"
+  alt="Animated developer introduction"
+/>
 </a>
 
 <br/>
 
 <a href="mailto:abarmanoffice@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070B17" />
+<img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070B17" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/md-akibul-hasan-arman-81857b339/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070B17" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-22D3EE?style=for-the-badge&logo=linkedin&logoColor=07111F&labelColor=070B17" />
 </a>
-<a href="https://github.com/abarman079">
-  <img src="https://img.shields.io/badge/GITHUB-EXPLORE-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=070B17" />
+&nbsp;
+<a href="https://github.com/abarman079?tab=repositories">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20WORK-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=070B17" />
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=abarman079&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" />
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-22C55E?style=flat-square" />
-<img src="https://img.shields.io/badge/BASED%20IN-BANGLADESH-22D3EE?style=flat-square" />
+<img src="https://img.shields.io/badge/LOCATION-DHAKA%2C%20BANGLADESH-22D3EE?style=flat-square" />
+
+<br/><br/>
+
+<sub>FULL-STACK SYSTEMS   ×   SECURE BACKENDS   ×   APPLIED AI   ×   DATA</sub>
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
-I'm **Md. Akibul Hasan Arman**, a **Computer Science & Engineering graduate from Bangladesh** focused on building practical, production-minded software across **full-stack development, backend engineering, applied AI/computer vision, and data/BI**.
+I am **Md. Akibul Hasan Arman**, a **Computer Science & Engineering graduate from Bangladesh** focused on developing practical, production-minded software across **full-stack engineering, backend systems, applied AI/computer vision, and data analytics**.
 
-My recent work ranges from a **Next.js + ASP.NET Core + PostgreSQL academic workflow platform**, to a deployed **Next.js + Supabase movie intelligence product**, a motion-rich commerce experience, role-based PHP/MySQL systems, computer-vision research, and an end-to-end retail data warehouse.
+My portfolio ranges from a **Next.js + ASP.NET Core + PostgreSQL academic workflow platform** and a deployed **Next.js + Supabase movie intelligence product** to motion-rich commerce experiences, role-based business applications, computer-vision research, Flask dashboards, PHP/MySQL systems, WordPress development, and end-to-end business intelligence work.
 
-I enjoy projects where the challenge goes beyond making the interface work — **authentication, authorization, database design, API architecture, business rules, testing, deployment, model evaluation, and maintainable system structure** are the parts of software engineering I want to keep getting better at.
+What interests me most is what happens **behind the interface**: authentication, authorization, database design, API architecture, business rules, testing, concurrency, deployment, model evaluation, maintainability, and turning requirements into systems that actually work.
 
-> **I build software to solve real problems — not just to fill repositories.**
+<div align="center">
+
+### I don't want to build repositories just to have repositories.
+
+### I want to build software worth discussing in an engineering interview.
+
+</div>
 
 ---
 
-# Engineering Snapshot
+## Engineering Command Center
 
 <div align="center">
 
 <table>
 <tr>
+
 <td align="center" width="25%">
-<h3>Full-Stack</h3>
+<h3>FULL-STACK</h3>
 Next.js • React<br/>
-ASP.NET • PHP<br/>
-Authentication • CRUD
+ASP.NET Core • PHP<br/>
+Product Workflows
 </td>
 
 <td align="center" width="25%">
-<h3>Backend</h3>
+<h3>BACKEND</h3>
 REST APIs • RBAC<br/>
 Business Rules<br/>
-PostgreSQL • MySQL
+Auth • Databases
 </td>
 
 <td align="center" width="25%">
-<h3>Applied AI</h3>
+<h3>APPLIED AI</h3>
 Computer Vision<br/>
-Anomaly Detection<br/>
-Classification • Segmentation
+Classification<br/>
+Anomaly Detection
 </td>
 
 <td align="center" width="25%">
-<h3>Data & BI</h3>
-SQL Server<br/>
-Power BI • DAX<br/>
-Dimensional Modeling
+<h3>DATA & BI</h3>
+SQL • Power BI<br/>
+DAX • Power Query<br/>
+Data Modeling
 </td>
+
 </tr>
 </table>
 
@@ -89,24 +106,30 @@ Dimensional Modeling
 
 ---
 
-# Core Technologies
+# Animated Technology Universe
 
 <div align="center">
 
-### Core Stack
+### 30 technologies. One engineering stack. All in motion.
 
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="62" height="62" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="62" height="62" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="62" height="62" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="62" height="62" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="62" height="62" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="62" height="62" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="62" height="62" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="62" height="62" />
+<img
+src="https://github-stack-sphere.vercel.app/stack.svg?icons=html5,css,javascript,typescript,react,nextdotjs,tailwindcss,dotnet,python,php,flask,nodedotjs,wordpress,postgresql,mysql,microsoftsqlserver,sqlite,supabase,prisma,tensorflow,keras,scikitlearn,opencv,numpy,pandas,jupyter,powerbi,docker,git,github&theme=dark&speed=24&size=700&direction=cw&v=3"
+width="700"
+alt="Animated 3D technology stack"
+/>
+
+<sub>
+The sphere rotates continuously — technologies move in 3D depth using SVG animation.
+</sub>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,py,php,html,css,react,nextjs,tailwind,bootstrap,nodejs,flask,postgres,mysql,sqlite,supabase,prisma,docker,git,github,vscode,vercel&perline=12" />
+### Core Stack — Quick View
+
+<img
+src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,py,php,html,css,react,nextjs,tailwind,bootstrap,nodejs,flask,postgres,mysql,sqlite,supabase,prisma,docker,git,github,vscode,vercel&perline=12"
+alt="Core technology icons"
+/>
 
 </div>
 
@@ -116,194 +139,179 @@ Dimensional Modeling
 
 ### Languages
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+`C#` · `TypeScript` · `JavaScript` · `Python` · `PHP` · `SQL` · `HTML5` · `CSS3`
 
 ### Frontend & Product UI
 
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-070B17?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-070B17?style=for-the-badge&logo=shadcnui&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-8B5CF6?style=for-the-badge)
-![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=111827)
-![Motion](https://img.shields.io/badge/Motion-111827?style=for-the-badge&logo=framer&logoColor=F8FAFC)
-![Lenis](https://img.shields.io/badge/Lenis-3B82F6?style=for-the-badge)
-![Lucide](https://img.shields.io/badge/Lucide-111827?style=for-the-badge&logo=lucide&logoColor=22D3EE)
+`React` · `Next.js` · `Tailwind CSS` · `Bootstrap` · `shadcn/ui` · `TanStack Query` · `React Hook Form` · `Zod` · `Recharts` · `GSAP` · `Motion` · `Lenis` · `Lucide` · `Tabler Icons`
 
-### Backend, APIs & Security
+### Backend & API Engineering
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-6C2DC7?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-22D3EE?style=for-the-badge&logo=fastapi&logoColor=070B17)
-![Swagger](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=111827)
-![JWT](https://img.shields.io/badge/JWT-070B17?style=for-the-badge&logo=jsonwebtokens&logoColor=22D3EE)
-![RBAC](https://img.shields.io/badge/RBAC-8B5CF6?style=for-the-badge)
-![OAuth/Auth](https://img.shields.io/badge/Auth%20Workflows-3B82F6?style=for-the-badge)
+`ASP.NET Core` · `Entity Framework Core` · `ASP.NET Core Identity` · `Flask` · `Node.js` · `WordPress` · `REST APIs` · `Swagger / OpenAPI` · `JWT Authentication` · `Refresh Tokens` · `RBAC` · `Authorization`
 
 ### Databases & Data Access
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white)
-![RLS](https://img.shields.io/badge/Row_Level_Security-22D3EE?style=for-the-badge&logo=postgresql&logoColor=070B17)
+`PostgreSQL` · `MySQL` · `SQL Server` · `SQLite` · `Supabase` · `Prisma ORM` · `Entity Framework Core` · `Row-Level Security`
 
 ### Machine Learning & Computer Vision
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![FaceNet](https://img.shields.io/badge/FaceNet-8B5CF6?style=for-the-badge)
-![MobileNetV2](https://img.shields.io/badge/MobileNetV2-3B82F6?style=for-the-badge)
-![U-Net](https://img.shields.io/badge/U--Net-22D3EE?style=for-the-badge)
-![U-Net++](https://img.shields.io/badge/U--Net%2B%2B-06B6D4?style=for-the-badge)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-8B5CF6?style=for-the-badge)
-![DeepLabV3](https://img.shields.io/badge/DeepLabV3-3B82F6?style=for-the-badge)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-111827?style=for-the-badge)
-![Classification](https://img.shields.io/badge/Classification-111827?style=for-the-badge)
-![Segmentation](https://img.shields.io/badge/Image_Segmentation-111827?style=for-the-badge)
+`TensorFlow` · `Keras` · `scikit-learn` · `OpenCV` · `FaceNet` · `MobileNetV2` · `U-Net` · `U-Net++` · `EfficientNet` · `DeepLabV3` · `Classification` · `Anomaly Detection` · `Image Segmentation` · `Transfer Learning`
 
 ### Data Science & Business Intelligence
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)
-![Dimensional Modeling](https://img.shields.io/badge/Dimensional_Modeling-8B5CF6?style=for-the-badge)
+`NumPy` · `Pandas` · `Matplotlib` · `Jupyter` · `Power BI` · `Power Query` · `DAX` · `Dimensional Modeling` · `Data Cleaning` · `Data Visualization`
 
-### Testing, DevOps & Development Tools
+### Testing, DevOps & Engineering Tools
 
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-070B17?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-070B17?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git LFS](https://img.shields.io/badge/Git_LFS-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-111827?style=for-the-badge&logo=prettier&logoColor=F7B93E)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+`xUnit` · `Git` · `GitHub` · `Docker` · `Vercel` · `Netlify` · `Supabase` · `Hugging Face Spaces` · `SSMS` · `Git LFS` · `ESLint` · `Prettier` · `VS Code` · `XAMPP`
 
 ---
 
-# Featured Engineering Work
+# Selected Engineering Portfolio
 
 <div align="center">
 
-### 01 — SlateDesk
-#### Full-Stack Academic Workflow Platform
+### 12 selected projects across software engineering, AI, data and product development
+
+<a href="#01--slatedesk">
+<img src="https://img.shields.io/badge/01-SlateDesk-8B5CF6?style=flat-square" />
+</a>
+<a href="#02--framesignal">
+<img src="https://img.shields.io/badge/02-FrameSignal-22D3EE?style=flat-square" />
+</a>
+<a href="#03--arctic-daze">
+<img src="https://img.shields.io/badge/03-Arctic%20Daze-3B82F6?style=flat-square" />
+</a>
+<a href="#04--cctv-violence-detection">
+<img src="https://img.shields.io/badge/04-CCTV%20AI-8B5CF6?style=flat-square" />
+</a>
+<a href="#05--face-based-anomaly-detection">
+<img src="https://img.shields.io/badge/05-Face%20AI-22D3EE?style=flat-square" />
+</a>
+<a href="#06--wall-crack-detection">
+<img src="https://img.shields.io/badge/06-Crack%20CV-3B82F6?style=flat-square" />
+</a>
+
+<br/>
+
+<a href="#07--retail-data-warehouse--bi">
+<img src="https://img.shields.io/badge/07-Data%20Warehouse-8B5CF6?style=flat-square" />
+</a>
+<a href="#08--travelease">
+<img src="https://img.shields.io/badge/08-TravelEase-22D3EE?style=flat-square" />
+</a>
+<a href="#09--roleboard-rbac">
+<img src="https://img.shields.io/badge/09-RoleBoard-3B82F6?style=flat-square" />
+</a>
+<a href="#10--pulseflow">
+<img src="https://img.shields.io/badge/10-PulseFlow-8B5CF6?style=flat-square" />
+</a>
+<a href="#11--ewu-fub-energy-monitor">
+<img src="https://img.shields.io/badge/11-Energy%20Monitor-22D3EE?style=flat-square" />
+</a>
+<a href="#12--educonsult-pro">
+<img src="https://img.shields.io/badge/12-EduConsult%20Pro-3B82F6?style=flat-square" />
+</a>
 
 </div>
 
-> A production-minded assignment and submission management system with dedicated **Administrator, Teacher, and Student workspaces**. Backend-enforced business rules, secure authentication, refresh-token handling, optimistic concurrency, testing, accessibility work, documentation, and Dockerized setup.
+---
 
-<p align="center">
-<img src="https://img.shields.io/badge/Next.js-070B17?style=flat-square&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/xUnit-8B5CF6?style=flat-square" />
-</p>
+# Flagship Engineering Work
 
-<p align="center">
+## 01 — SlateDesk
+
+<div align="center">
+
+### Full-Stack Academic Workflow Platform
+
+<img src="https://img.shields.io/badge/FLAGSHIP-FULL--STACK%20SYSTEM-8B5CF6?style=for-the-badge&labelColor=070B17" />
+
+</div>
+
+SlateDesk is a production-minded assignment and submission management platform with dedicated **Administrator, Teacher, and Student workspaces**.
+
+The project goes beyond basic CRUD by implementing backend-enforced business rules, authentication and authorization, refresh-token handling, optimistic concurrency, background processing, automated testing, accessibility work, architectural documentation, API documentation, and Dockerized deployment.
+
+<div align="center">
+
+`Next.js` · `React` · `TypeScript` · `C#` · `ASP.NET Core` · `EF Core` · `PostgreSQL` · `Docker` · `xUnit`
+
+<br/><br/>
+
 <a href="https://github.com/abarman079/slatedesk">
 <img src="https://img.shields.io/badge/SOURCE_CODE-EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=070B17" />
 </a>
+&nbsp;
 <a href="https://github.com/abarman079/slatedesk/blob/main/docs/architecture.md">
-<img src="https://img.shields.io/badge/ARCHITECTURE-VIEW-22D3EE?style=for-the-badge&logo=diagramsdotnet&logoColor=070B17&labelColor=070B17" />
+<img src="https://img.shields.io/badge/ARCHITECTURE-READ-22D3EE?style=for-the-badge&logoColor=white&labelColor=070B17" />
 </a>
-<a href="https://github.com/abarman079/slatedesk/blob/main/docs/api-overview.md">
-<img src="https://img.shields.io/badge/API_DOCS-READ-3B82F6?style=for-the-badge&logo=swagger&logoColor=white&labelColor=070B17" />
-</a>
-</p>
-
----
-
-<div align="center">
-
-### 02 — FrameSignal
-#### Spoiler-Safe Movie Intelligence Platform
 
 </div>
 
-> A deployed movie decision platform combining spoiler-safe verdicts, ending explanations, theory analysis, mood-based discovery, legal watch guidance, structured editorial workflows, and a protected custom CMS.
+---
 
-<p align="center">
-<img src="https://img.shields.io/badge/Next.js-070B17?style=flat-square&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ECF8E" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-070B17?style=flat-square&logo=vercel" />
-</p>
+## 02 — FrameSignal
 
-<p align="center">
+<div align="center">
+
+### Spoiler-Safe Movie Intelligence Platform
+
+<img src="https://img.shields.io/badge/FLAGSHIP-LIVE%20PRODUCT-22D3EE?style=for-the-badge&labelColor=070B17" />
+
+</div>
+
+FrameSignal is a deployed movie-decision platform built around **spoiler-aware editorial content, movie verdicts, ending explanations, theory analysis, mood-based discovery, protected content management, Supabase authentication, PostgreSQL and row-level security**.
+
+It demonstrates product thinking alongside full-stack engineering: public content experiences, protected administrative workflows, database-backed content, deployment, SEO and security-aware application architecture.
+
+<div align="center">
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PostgreSQL` · `RLS` · `Vercel`
+
+<br/><br/>
+
 <a href="https://frame-signal.vercel.app">
-<img src="https://img.shields.io/badge/LIVE_DEMO-VISIT-22D3EE?style=for-the-badge&logo=vercel&logoColor=070B17&labelColor=070B17" />
+<img src="https://img.shields.io/badge/LIVE_PRODUCT-VISIT-22D3EE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070B17" />
 </a>
+&nbsp;
 <a href="https://github.com/abarman079/FrameSignal">
 <img src="https://img.shields.io/badge/SOURCE_CODE-EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=070B17" />
 </a>
-<a href="https://github.com/abarman079/FrameSignal/blob/master/docs/deployment-guide.md">
-<img src="https://img.shields.io/badge/DEPLOYMENT-DOCS-3B82F6?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=070B17" />
-</a>
-</p>
-
----
-
-<div align="center">
-
-### 03 — Arctic Daze
-#### Premium Fashion Commerce Experience
 
 </div>
 
-> A modern commerce experience focused on premium presentation, product discovery, account flows, saved products, responsive interaction, and motion-driven UI.
+---
 
-<p align="center">
-<img src="https://img.shields.io/badge/Next.js-070B17?style=flat-square&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ECF8E" />
-<img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logoColor=111827" />
-<img src="https://img.shields.io/badge/Motion-8B5CF6?style=flat-square" />
-</p>
+## 03 — Arctic Daze
 
-<p align="center">
+<div align="center">
+
+### Motion-Rich Premium Fashion Commerce Experience
+
+<img src="https://img.shields.io/badge/FLAGSHIP-PRODUCT%20UI-3B82F6?style=for-the-badge&labelColor=070B17" />
+
+</div>
+
+Arctic Daze is a premium consumer-facing commerce experience focused on **visual identity, responsive interaction, product discovery, authentication/account flows, saved products and motion-driven UI**.
+
+The project combines modern Next.js engineering with animation technologies to create an experience closer to a polished commercial product than a standard portfolio storefront.
+
+<div align="center">
+
+`Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS 4` · `Supabase` · `GSAP` · `Motion` · `Lenis`
+
+<br/><br/>
+
 <a href="https://arctic-daze-kappa.vercel.app">
-<img src="https://img.shields.io/badge/LIVE_DEMO-VISIT-22D3EE?style=for-the-badge&logo=vercel&logoColor=070B17&labelColor=070B17" />
+<img src="https://img.shields.io/badge/LIVE_PRODUCT-VISIT-22D3EE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070B17" />
 </a>
+&nbsp;
 <a href="https://github.com/abarman079/arctic-daze">
 <img src="https://img.shields.io/badge/SOURCE_CODE-EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=070B17" />
 </a>
-</p>
+
+</div>
 
 ---
 
@@ -316,19 +324,24 @@ Dimensional Modeling
 
 <h3 align="center">04 — CCTV Violence Detection</h3>
 
-Computer-vision anomaly classification comparing classical machine learning, a custom CNN, and MobileNetV2 transfer learning.
+<p>
+Computer-vision anomaly classification project comparing classical machine learning, a custom CNN and MobileNetV2 transfer learning.
+</p>
 
-**Best reported MLP result**
-- Accuracy: `94.93%`
-- F1-score: `94.97%`
-- ROC-AUC: `99.10%`
-- Average Precision: `99.14%`
+<p><b>Best reported MLP result</b></p>
+
+<ul>
+<li>Accuracy: <code>94.93%</code></li>
+<li>F1-score: <code>94.97%</code></li>
+<li>ROC-AUC: <code>99.10%</code></li>
+<li>Average Precision: <code>99.14%</code></li>
+</ul>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<code>Python</code>
+<code>TensorFlow</code>
+<code>Keras</code>
+<code>scikit-learn</code>
 </p>
 
 <p align="center">
@@ -336,7 +349,7 @@ Computer-vision anomaly classification comparing classical machine learning, a c
 <img src="https://img.shields.io/badge/SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/abarman079/cctv-violence-anomaly-detection/blob/main/results/tables/final_model_comparison.csv">
-<img src="https://img.shields.io/badge/RESULTS-22D3EE?style=for-the-badge&logo=googleanalytics&logoColor=070B17" />
+<img src="https://img.shields.io/badge/RESULTS-22D3EE?style=for-the-badge" />
 </a>
 </p>
 
@@ -346,19 +359,24 @@ Computer-vision anomaly classification comparing classical machine learning, a c
 
 <h3 align="center">05 — Face-Based Anomaly Detection</h3>
 
-FaceNet-powered anomaly-detection research comparing KNN, Isolation Forest, MLP, and convolutional autoencoder approaches.
+<p>
+FaceNet-powered anomaly-detection research comparing KNN, Isolation Forest, MLP and convolutional-autoencoder pipelines.
+</p>
 
-**Selected results**
-- KNN ROC-AUC: `99.39%`
-- MLP Accuracy: `98.82%`
-- MLP F1-score: `98.82%`
-- MLP ROC-AUC: `99.38%`
+<p><b>Selected reported results</b></p>
+
+<ul>
+<li>KNN ROC-AUC: <code>99.39%</code></li>
+<li>MLP Accuracy: <code>98.82%</code></li>
+<li>MLP F1-score: <code>98.82%</code></li>
+<li>MLP ROC-AUC: <code>99.38%</code></li>
+</ul>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FaceNet-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<code>Python</code>
+<code>FaceNet</code>
+<code>TensorFlow</code>
+<code>scikit-learn</code>
 </p>
 
 <p align="center">
@@ -366,7 +384,7 @@ FaceNet-powered anomaly-detection research comparing KNN, Isolation Forest, MLP,
 <img src="https://img.shields.io/badge/SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/abarman079/Face-based-anomaly-detection/blob/main/results/tables/24_final_all_four_model_results.csv">
-<img src="https://img.shields.io/badge/RESULTS-22D3EE?style=for-the-badge&logo=googleanalytics&logoColor=070B17" />
+<img src="https://img.shields.io/badge/RESULTS-22D3EE?style=for-the-badge" />
 </a>
 </p>
 
@@ -380,25 +398,30 @@ FaceNet-powered anomaly-detection research comparing KNN, Isolation Forest, MLP,
 
 <h3 align="center">06 — Wall Crack Detection</h3>
 
-Computer-vision research project for structural crack segmentation with multiple model architectures, diagnostics, and threshold-tuning experiments.
+<p>
+Structural crack segmentation research using multiple deep-learning architectures, diagnostics and threshold-tuning experiments.
+</p>
 
-**Research areas**
-- U-Net + EfficientNet-B3
-- U-Net++
-- DeepLabV3
-- Model diagnostics
-- Threshold tuning
+<p><b>Research areas</b></p>
+
+<ul>
+<li>U-Net + EfficientNet-B3</li>
+<li>U-Net++</li>
+<li>DeepLabV3</li>
+<li>Model diagnostics</li>
+<li>Threshold tuning</li>
+</ul>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/U--Net-22D3EE?style=flat-square" />
-<img src="https://img.shields.io/badge/EfficientNet-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/DeepLabV3-3B82F6?style=flat-square" />
+<code>Python</code>
+<code>U-Net</code>
+<code>EfficientNet</code>
+<code>DeepLabV3</code>
 </p>
 
 <p align="center">
 <a href="https://huggingface.co/spaces/abArman6979/Wallcrack">
-<img src="https://img.shields.io/badge/LIVE_DEMO-22D3EE?style=for-the-badge&logo=huggingface&logoColor=070B17" />
+<img src="https://img.shields.io/badge/DEMO-22D3EE?style=for-the-badge&logo=huggingface&logoColor=111827" />
 </a>
 <a href="https://github.com/abarman079/wallCrackWith2datasets">
 <img src="https://img.shields.io/badge/SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
@@ -411,20 +434,25 @@ Computer-vision research project for structural crack segmentation with multiple
 
 <h3 align="center">07 — Retail Data Warehouse & BI</h3>
 
-End-to-end retail analytics solution covering data cleaning, dimensional modeling, fact/dimension design, Power BI modeling, DAX, and interactive reporting.
+<p>
+End-to-end retail analytics project covering data preparation, dimensional modeling, SQL Server, Power BI modeling, DAX and interactive reporting.
+</p>
 
-**Analytics areas**
-- Sales KPIs
-- Monthly trends
-- Country performance
-- Product performance
-- Customer analysis
+<p><b>Analytics areas</b></p>
+
+<ul>
+<li>Sales KPIs</li>
+<li>Monthly trends</li>
+<li>Country performance</li>
+<li>Product performance</li>
+<li>Customer analysis</li>
+</ul>
 
 <p align="center">
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" />
-<img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square" />
-<img src="https://img.shields.io/badge/DAX-8B5CF6?style=flat-square" />
+<code>SQL Server</code>
+<code>Power BI</code>
+<code>Power Query</code>
+<code>DAX</code>
 </p>
 
 <p align="center">
@@ -432,7 +460,7 @@ End-to-end retail analytics solution covering data cleaning, dimensional modelin
 <img src="https://img.shields.io/badge/SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/abarman079/Data-Warehousing/tree/main/reports/screenshots">
-<img src="https://img.shields.io/badge/DASHBOARD-22D3EE?style=for-the-badge&logo=powerbi&logoColor=070B17" />
+<img src="https://img.shields.io/badge/DASHBOARD-22D3EE?style=for-the-badge&logo=powerbi&logoColor=111827" />
 </a>
 </p>
 
@@ -443,34 +471,171 @@ End-to-end retail analytics solution covering data cleaning, dimensional modelin
 
 ---
 
-<div align="center">
+# Full-Stack & Business Systems
 
-### 08 — TravelEase
-#### Role-Based Travel Booking Platform
+<table>
 
-</div>
+<tr>
 
-> A PHP/MySQL travel booking application with authentication, trip discovery, booking workflows, password recovery, transactional email support, and dedicated Traveler, Agent, and Administrator areas.
+<td width="50%" valign="top">
 
-<p align="center">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
-<img src="https://img.shields.io/badge/PHPMailer-22D3EE?style=flat-square" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<h3 align="center">08 — TravelEase</h3>
+
+<p align="center"><b>Role-Based Travel Booking Platform</b></p>
+
+<p>
+PHP/MySQL travel application featuring authentication, trip discovery, booking workflows, password recovery, transactional email support and dedicated Traveler, Agent and Administrator experiences.
 </p>
 
 <p align="center">
-<a href="https://travelease.infinityfree.me/index.php">
-<img src="https://img.shields.io/badge/LIVE_DEMO-VISIT-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=070B17&labelColor=070B17" />
-</a>
+<code>PHP</code>
+<code>MySQL</code>
+<code>JavaScript</code>
+<code>PHPMailer</code>
+<code>Docker</code>
+</p>
+
+<p align="center">
 <a href="https://github.com/abarman079/travelease-webApp">
-<img src="https://img.shields.io/badge/SOURCE_CODE-EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=070B17" />
+<img src="https://img.shields.io/badge/SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/abarman079/travelease-webApp/blob/main/SETUP_GUIDE.md">
-<img src="https://img.shields.io/badge/SETUP_GUIDE-READ-3B82F6?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=070B17" />
+<img src="https://img.shields.io/badge/SETUP-22D3EE?style=for-the-badge" />
 </a>
 </p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">09 — RoleBoard RBAC</h3>
+
+<p align="center"><b>Role-Based Post & Comment Management</b></p>
+
+<p>
+Full-stack developer task demonstrating server-side permission enforcement across Super Admin, Moderator, Regular User and Guest roles.
+</p>
+
+<p>
+Authorization rules are separated from the UI and enforced again through backend API routes.
+</p>
+
+<p align="center">
+<code>Next.js</code>
+<code>React</code>
+<code>Prisma</code>
+<code>SQLite</code>
+<code>RBAC</code>
+</p>
+
+<p align="center">
+<a href="https://github.com/abarman079/roleboard-rbac-task">
+<img src="https://img.shields.io/badge/SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/abarman079/roleboard-rbac-task/blob/main/README.md">
+<img src="https://img.shields.io/badge/CASE_STUDY-22D3EE?style=for-the-badge" />
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">10 — PulseFlow</h3>
+
+<p align="center"><b>Emergency Hospital Management System</b></p>
+
+<p>
+Multi-role healthcare management system with dedicated modules for patients, nurses, doctors and administrators alongside authentication and dashboard functionality.
+</p>
+
+<p align="center">
+<code>PHP</code>
+<code>MySQL</code>
+<code>JavaScript</code>
+<code>HTML</code>
+<code>CSS</code>
+</p>
+
+<p align="center">
+<a href="https://github.com/abarman079/PulseFlow-emergency-hospital-management-">
+<img src="https://img.shields.io/badge/SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">11 — EWU FUB Energy Monitor</h3>
+
+<p align="center"><b>Building Energy Monitoring Dashboard</b></p>
+
+<p>
+Flask-based web dashboard for building and room monitoring, energy-data presentation, room-status visualization and system monitoring.
+</p>
+
+<p align="center">
+<code>Python</code>
+<code>Flask</code>
+<code>HTML</code>
+<code>CSS</code>
+<code>Data Visualization</code>
+</p>
+
+<p align="center">
+<a href="https://github.com/abarman079/EWU_FUB_EnergyMonitor">
+<img src="https://img.shields.io/badge/SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" valign="top">
+
+<h3 align="center">12 — EduConsult Pro</h3>
+
+<p align="center"><b>WordPress Service Booking & Client Portal</b></p>
+
+<p align="center">
+A WordPress consultancy platform featuring an Astra child theme, custom PHP plugin, custom post types, client-dashboard functionality, authentication support, SEO-ready structure and WooCommerce-ready components.
+</p>
+
+<p align="center">
+<code>WordPress</code>
+<code>PHP</code>
+<code>JavaScript</code>
+<code>HTML</code>
+<code>CSS</code>
+<code>WooCommerce</code>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-F59E0B?style=flat-square" />
+</p>
+
+<p align="center">
+<a href="https://github.com/abarman079/EduConsult-Pro">
+<img src="https://img.shields.io/badge/SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/abarman079/EduConsult-Pro/blob/main/README.md">
+<img src="https://img.shields.io/badge/DOCUMENTATION-22D3EE?style=for-the-badge" />
+</a>
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -479,10 +644,12 @@ End-to-end retail analytics solution covering data cleaning, dimensional modelin
 <div align="center">
 
 <table>
+
 <tr>
+
 <td align="center" width="25%">
 <h2>94.97%</h2>
-<b>F1 Score</b><br/>
+<b>F1 SCORE</b><br/>
 <sub>CCTV Violence Detection</sub>
 </td>
 
@@ -499,11 +666,13 @@ End-to-end retail analytics solution covering data cleaning, dimensional modelin
 </td>
 
 <td align="center" width="25%">
-<h2>8</h2>
-<b>Featured Projects</b><br/>
+<h2>12</h2>
+<b>SELECTED PROJECTS</b><br/>
 <sub>Engineering • AI • Data</sub>
 </td>
+
 </tr>
+
 </table>
 
 </div>
@@ -514,68 +683,107 @@ End-to-end retail analytics solution covering data cleaning, dimensional modelin
 
 ```text
 FULL-STACK ENGINEERING
-├── Responsive web applications
-├── Authentication and authorization
+│
+├── Responsive, database-backed web applications
+├── Authentication and authorization workflows
 ├── Role-based dashboards
+├── Product and administrative interfaces
 ├── API integration
-└── Database-backed product workflows
+└── End-to-end application workflows
+
 
 BACKEND & SYSTEM DESIGN
+│
 ├── REST API architecture
-├── Business-rule enforcement
-├── PostgreSQL / MySQL / SQL Server
+├── Backend business-rule enforcement
+├── PostgreSQL / MySQL / SQL Server / SQLite
 ├── JWT and refresh-token workflows
+├── Role-based access control
 ├── Optimistic concurrency
-└── Testing and Dockerized environments
+├── API documentation
+└── Automated testing and Docker environments
+
 
 APPLIED AI & COMPUTER VISION
+│
 ├── Classification
 ├── Anomaly detection
 ├── Transfer learning
 ├── Image segmentation
+├── Feature embeddings
 ├── Model comparison
 └── Metric-driven evaluation
 
+
 DATA & BUSINESS INTELLIGENCE
+│
 ├── Dimensional modeling
 ├── Data cleaning and transformation
+├── SQL analytics
 ├── Power Query
 ├── DAX
 └── Power BI dashboards
-````
+```
 
 ---
 
-# GitHub Activity
+# GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abarman079&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070B17&title_color=22D3EE&icon_color=8B5CF6&text_color=F8FAFC&ring_color=8B5CF6" />
+### Live Developer Statistics
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abarman079&layout=compact&theme=tokyonight&hide_border=true&bg_color=070B17&title_color=22D3EE&text_color=F8FAFC&langs_count=8" />
+<img
+width="49%"
+src="https://github-stats-extended.vercel.app/api?username=abarman079&show_icons=true&hide_border=true&bg_color=070B17&title_color=22D3EE&icon_color=8B5CF6&text_color=F8FAFC&ring_color=8B5CF6&include_all_commits=true"
+alt="GitHub statistics"
+/>
+
+<img
+width="49%"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=abarman079&layout=compact&hide_border=true&bg_color=070B17&title_color=22D3EE&text_color=F8FAFC&langs_count=8"
+alt="Most used languages"
+/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abarman079&bg_color=070B17&color=94A3B8&line=8B5CF6&point=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<img
+width="70%"
+src="https://streak-stats.demolab.com?user=abarman079&theme=tokyonight&hide_border=true&background=070B17&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=F8FAFC&dates=94A3B8"
+alt="GitHub contribution streak"
+/>
+
+<br/><br/>
+
+<img
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=abarman079&bg_color=070B17&color=94A3B8&line=8B5CF6&point=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Activity"
+alt="Contribution activity graph"
+/>
 
 </div>
 
 ---
 
-# Currently Focused On
+# Currently Building Toward
 
 <div align="center">
 
-![Full Stack](https://img.shields.io/badge/Building-Production--Minded%20Full--Stack%20Systems-8B5CF6?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Deepening-Backend%20%26%20API%20Engineering-3B82F6?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/Improving-Architecture%20%26%20Testing-22D3EE?style=for-the-badge)
-![AI](https://img.shields.io/badge/Exploring-Applied%20AI%20%26%20Computer%20Vision-06B6D4?style=for-the-badge)
+<img src="https://img.shields.io/badge/BUILDING-Production--Minded%20Systems-8B5CF6?style=for-the-badge&labelColor=070B17" />
+<img src="https://img.shields.io/badge/DEEPENING-Backend%20%26%20API%20Engineering-3B82F6?style=for-the-badge&labelColor=070B17" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/IMPROVING-Architecture%20%26%20Testing-22D3EE?style=for-the-badge&labelColor=070B17" />
+<img src="https://img.shields.io/badge/EXPLORING-Applied%20AI%20%26%20Computer%20Vision-06B6D4?style=for-the-badge&labelColor=070B17" />
 
 </div>
 
 <br/>
 
-I am continuing to strengthen my work in **software architecture, API design, security, automated testing, deployment, modern frontend engineering, and applied machine learning** while building portfolio projects that can be demonstrated, reviewed, and discussed technically.
+My current development focus is strengthening my abilities in **software architecture, backend engineering, API design, authentication/security, automated testing, database design, deployment, modern frontend engineering and applied machine learning**.
+
+The goal is not simply to learn more technologies — it is to become better at **designing, building, explaining and maintaining complete software systems**.
 
 ---
 
@@ -583,9 +791,19 @@ I am continuing to strengthen my work in **software architecture, API design, se
 
 <div align="center">
 
-### Let's build something useful.
+## Let's build something useful.
 
-I'm open to opportunities where I can contribute to real software while continuing to grow as an engineer — especially across **software engineering, full-stack development, backend development, web applications, and applied AI/data work**.
+I am open to opportunities where I can contribute to real software while continuing to grow as an engineer.
+
+### Areas I am especially interested in
+
+`Software Engineering`   •  
+`Full-Stack Development`   •  
+`Backend Development`
+
+`Web Applications`   •  
+`Applied AI / Computer Vision`   •  
+`Data & BI`
 
 <br/>
 
@@ -593,18 +811,26 @@ I'm open to opportunities where I can contribute to real software while continui
 <img src="https://img.shields.io/badge/HIRE_ME-EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070B17" />
 </a>
 
+ 
+
 <a href="https://www.linkedin.com/in/md-akibul-hasan-arman-81857b339/">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-22D3EE?style=for-the-badge&logo=linkedin&logoColor=070B17&labelColor=070B17" />
+<img src="https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070B17" />
 </a>
 
+ 
+
 <a href="https://github.com/abarman079?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-MY_REPOSITORIES-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=070B17" />
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=070B17" />
 </a>
 
 <br/><br/>
 
 <sub>
-Full-Stack Engineering • Backend Systems • Applied AI • Computer Vision • Data & BI
+FULL-STACK ENGINEERING &nbsp; • &nbsp;
+BACKEND SYSTEMS &nbsp; • &nbsp;
+APPLIED AI &nbsp; • &nbsp;
+COMPUTER VISION &nbsp; • &nbsp;
+DATA & BI
 </sub>
 
 </div>
@@ -613,7 +839,13 @@ Full-Stack Engineering • Backend Systems • Applied AI • Computer Vision �
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,35:8B5CF6,70:111827,100:070B17&height=150&section=footer&animation=fadeIn" />
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,30:2563EB,58:6D28D9,78:111827,100:070B17&height=160&section=footer"
+/>
 
 </div>
-```
+
+<!-- =========================================================
+     END OF PROFILE README
+     ========================================================= -->
